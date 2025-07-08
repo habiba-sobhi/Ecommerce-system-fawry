@@ -1,4 +1,4 @@
-```
+
 # E-Commerce Checkout System
 
 ## Overview
@@ -29,7 +29,6 @@ This is a simple Java-based e-commerce checkout system I built to manage product
    java Main
    ```
 
-## Sample Output
 When you run the program, you'll see something like:
 
 ```
@@ -53,7 +52,6 @@ Total package weight: 16.1kg
 Customer balance after payment: EGP 4150.00
 ```
 
-## What I Learned
 Working on this project helped me:
 - Practice core Java OOP principles
 - Better understand class relationships
@@ -61,10 +59,9 @@ Working on this project helped me:
 - Create clear output formatting
 - Manage inventory tracking
 
-## Possible Improvements
 Future versions could include:
 - Database persistence for products/customers
 - GUI interface
 - Discount/promotion system
 - More detailed shipping options
-```
+
