@@ -67,6 +67,4 @@ Future versions could include:
 - GUI interface
 - Discount/promotion system
 - More detailed shipping options
-
-Feel free to contribute suggestions or report any issues!
 ```
